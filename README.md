@@ -36,15 +36,16 @@ Passionate about exploring the universe and turning abstract concepts into struc
 
 <p align="left">
     <a href="https://github.com/AbolfazlMohammadi2005" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32" height="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub" />
     </a>
     <a href="https://www.linkedin.com/in/abolfazl--mohammadi" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
     </a>
     <a href="https://t.me/The_PaterAretes" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="32" height="32" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" alt="Telegram" />
     </a>
 </p>
+
 
 
 ## My Activity
