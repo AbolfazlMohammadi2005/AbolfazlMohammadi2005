@@ -38,7 +38,7 @@ Passionate about exploring the universe and turning abstract concepts into struc
     <a href="https://github.com/AbolfazlMohammadi2005" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32" height="32" />
     </a>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abolfazl--mohammadi/" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/www.linkedin.com/in/abolfazl--mohammadi/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" />
     </a>
     <a href="https://t.me/https://t.me/The_PaterAretes" target="_blank" rel="noreferrer">
